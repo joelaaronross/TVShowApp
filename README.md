@@ -1,1 +1,1 @@
-# TVShowApp- Application that shows tv database.
+# TVShowApp- Application that shows tv databases.
